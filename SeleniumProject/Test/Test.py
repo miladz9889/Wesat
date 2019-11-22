@@ -37,7 +37,6 @@ driver.find_element_by_name("password").send_keys("Test123!")
 print("worked")
 
 
-for i = 0, i < 23; i++
 
 
 
